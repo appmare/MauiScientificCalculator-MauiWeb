@@ -10,6 +10,8 @@ key press runs the app's own C#.
 | --- | --- | --- |
 | ![Calculator](docs/calc-start.png) | ![Seven](docs/calc-7.png) | ![Phone](docs/calc-phone.png) |
 
+**Try it live:** https://live.mauiweb.appmare.com/scicalc (also in the [MauiWeb live gallery](https://mauiweb.appmare.com/gallery.html)'s Samples section).
+
 ## Run it
 
 Requirements: the .NET 11 SDK and the .NET MAUI 11 workload (`dotnet workload install maui`).
