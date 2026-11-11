@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MauiScientificCalculator.Web/MauiScientificCalculator.Web.csproj" />
+  <Project Path="MauiScientificCalculator/MauiScientificCalculator.csproj" />
+</Solution>

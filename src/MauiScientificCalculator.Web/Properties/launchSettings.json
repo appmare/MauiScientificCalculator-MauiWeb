@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MauiScientificCalculator.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5322",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
